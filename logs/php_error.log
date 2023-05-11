@@ -1,0 +1,48 @@
+[11-May-2023 08:49:44 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[11-May-2023 08:49:44 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[11-May-2023 08:49:46 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[11-May-2023 08:49:46 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[11-May-2023 10:52:10 Europe/Paris] PHP Warning:  mysqli::mysqli():  in C:\wamp\www\index (2).php on line 7
+[11-May-2023 10:52:10 Europe/Paris] PHP Stack trace:
+[11-May-2023 10:52:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\index (2).php:0
+[11-May-2023 10:52:10 Europe/Paris] PHP   2. mysqli->mysqli() C:\wamp\www\index (2).php:7
+[11-May-2023 10:52:10 Europe/Paris] PHP Warning:  mysqli::mysqli():  in C:\wamp\www\index (2).php on line 7
+[11-May-2023 10:52:10 Europe/Paris] PHP Stack trace:
+[11-May-2023 10:52:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\index (2).php:0
+[11-May-2023 10:52:10 Europe/Paris] PHP   2. mysqli->mysqli() C:\wamp\www\index (2).php:7
+[11-May-2023 10:54:00 Europe/Paris] PHP Warning:  mysqli::mysqli():  in C:\wamp\www\index (2).php on line 7
+[11-May-2023 10:54:00 Europe/Paris] PHP Stack trace:
+[11-May-2023 10:54:00 Europe/Paris] PHP   1. {main}() C:\wamp\www\index (2).php:0
+[11-May-2023 10:54:00 Europe/Paris] PHP   2. mysqli->mysqli() C:\wamp\www\index (2).php:7
+[11-May-2023 10:54:00 Europe/Paris] PHP Warning:  mysqli::mysqli():  in C:\wamp\www\index (2).php on line 7
+[11-May-2023 10:54:00 Europe/Paris] PHP Stack trace:
+[11-May-2023 10:54:00 Europe/Paris] PHP   1. {main}() C:\wamp\www\index (2).php:0
+[11-May-2023 10:54:00 Europe/Paris] PHP   2. mysqli->mysqli() C:\wamp\www\index (2).php:7
+[11-May-2023 10:54:02 Europe/Paris] PHP Warning:  mysqli::mysqli():  in C:\wamp\www\index (2).php on line 7
+[11-May-2023 10:54:02 Europe/Paris] PHP Stack trace:
+[11-May-2023 10:54:02 Europe/Paris] PHP   1. {main}() C:\wamp\www\index (2).php:0
+[11-May-2023 10:54:02 Europe/Paris] PHP   2. mysqli->mysqli() C:\wamp\www\index (2).php:7
+[11-May-2023 10:54:02 Europe/Paris] PHP Warning:  mysqli::mysqli():  in C:\wamp\www\index (2).php on line 7
+[11-May-2023 10:54:02 Europe/Paris] PHP Stack trace:
+[11-May-2023 10:54:02 Europe/Paris] PHP   1. {main}() C:\wamp\www\index (2).php:0
+[11-May-2023 10:54:02 Europe/Paris] PHP   2. mysqli->mysqli() C:\wamp\www\index (2).php:7
+[11-May-2023 10:54:09 Europe/Paris] PHP Warning:  mysqli::mysqli():  in C:\wamp\www\index (2).php on line 7
+[11-May-2023 10:54:09 Europe/Paris] PHP Stack trace:
+[11-May-2023 10:54:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\index (2).php:0
+[11-May-2023 10:54:09 Europe/Paris] PHP   2. mysqli->mysqli() C:\wamp\www\index (2).php:7
+[11-May-2023 10:54:09 Europe/Paris] PHP Warning:  mysqli::mysqli():  in C:\wamp\www\index (2).php on line 7
+[11-May-2023 10:54:09 Europe/Paris] PHP Stack trace:
+[11-May-2023 10:54:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\index (2).php:0
+[11-May-2023 10:54:09 Europe/Paris] PHP   2. mysqli->mysqli() C:\wamp\www\index (2).php:7
+[11-May-2023 10:54:10 Europe/Paris] PHP Warning:  mysqli::mysqli():  in C:\wamp\www\index (2).php on line 7
+[11-May-2023 10:54:10 Europe/Paris] PHP Stack trace:
+[11-May-2023 10:54:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\index (2).php:0
+[11-May-2023 10:54:10 Europe/Paris] PHP   2. mysqli->mysqli() C:\wamp\www\index (2).php:7
+[11-May-2023 10:54:10 Europe/Paris] PHP Warning:  mysqli::mysqli():  in C:\wamp\www\index (2).php on line 7
+[11-May-2023 10:54:10 Europe/Paris] PHP Stack trace:
+[11-May-2023 10:54:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\index (2).php:0
+[11-May-2023 10:54:10 Europe/Paris] PHP   2. mysqli->mysqli() C:\wamp\www\index (2).php:7
+[11-May-2023 09:34:12 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[11-May-2023 09:34:12 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[11-May-2023 09:34:13 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[11-May-2023 09:34:13 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
